@@ -1,0 +1,21 @@
+# Ignore all data files
+data_mega/
+data_power/
+
+# Ignore logs
+*.log.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv/
